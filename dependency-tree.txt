@@ -1,0 +1,16 @@
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building maven-quick-start 1.0
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ maven-quick-start ---
+[INFO] clinic.programming:maven-quick-start:jar:1.0
+[INFO] \- org.apache.commons:commons-lang3:jar:3.9:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 0.872 s
+[INFO] Finished at: 2019-06-01T23:40:40-04:00
+[INFO] Final Memory: 13M/309M
+[INFO] ------------------------------------------------------------------------
